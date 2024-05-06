@@ -3,7 +3,7 @@ PODS:
     - Flutter
   - document_scanner_flutter (0.0.1):
     - Flutter
-    - WeScan (>= 0.9)
+    - WeScan (>= 3.0.0)
   - Flutter (1.0.0)
   - FMDB (2.7.5):
     - FMDB/standard (= 2.7.5)
@@ -13,7 +13,7 @@ PODS:
   - sqflite (0.0.2):
     - Flutter
     - FMDB (>= 2.7.5)
-  - WeScan (1.7.0)
+  - WeScan (3.0.0)
 
 DEPENDENCIES:
   - advance_pdf_viewer (from `.symlinks/plugins/advance_pdf_viewer/ios`)
